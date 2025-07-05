@@ -1,0 +1,7 @@
+crewai==0.5.0
+langchain-community==0.0.20
+yfinance==0.2.64
+pandas==2.3.0
+streamlit==1.46.1
+ollama
+requests==2.32.4 
